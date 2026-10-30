@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: If you use this software, please cite the accompanying publication (preferred-citation below).
+type: software
+title: Expériences autour de la perception de la forme en art et science
+authors:
+- family-names: Perrinet
+  given-names: Laurent U
+  orcid: https://orcid.org/0000-0002-9536-010X
+- family-names: Rey
+  given-names: Etienne
+repository-code: https://github.com/NaturalPatterns/2017-10-12_GDR
+url: https://laurentperrinet.github.io/publication/perrinet-17-gdr/
+license: MIT
+keywords:
+- motion-perception
+- visual-illusions
+preferred-citation:
+  type: conference-paper
+  title: Expériences autour de la perception de la forme en art et science
+  authors:
+  - family-names: Perrinet
+    given-names: Laurent U
+    orcid: https://orcid.org/0000-0002-9536-010X
+  - family-names: Rey
+    given-names: Etienne
+  conference:
+    name: GDR Vision, Lille, 2017
+  year: 2017
+  url: https://laurentperrinet.github.io/publication/perrinet-17-gdr/
